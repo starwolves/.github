@@ -1,2 +1,2 @@
-# .github
-Markdown for the Github page of Star Wolves.
+# Star Wolves
+An independent organization creating [Space Frontiers](https://github.com/starwolves/space).
