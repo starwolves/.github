@@ -5,10 +5,6 @@
 
 An independent organization creating [Space Frontiers](https://github.com/starwolves/space).
 
-Interested game developers and 2D/3D (concept) artists are suggested to join the Space Frontiers Discord and to get in contact!
-
-Space Frontiers and Star Wolves have their own separated Discord servers. Most people here will be interested in the first Discord server.
-
 ### Space Frontiers
 
 <a href="https://discord.gg/yYpMun9CTT">
